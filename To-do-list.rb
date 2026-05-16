@@ -32,7 +32,7 @@ class TodoApp
       when 4 
         save_tasks
         puts "\n💎 Dane zapisane! Bajabongo, Daniel! Miłego dnia! 👋"
-        break
+        brea
       else
         puts "\n❌ Coś pokręciłeś, wybierz numer od 1 do 4."
       end
